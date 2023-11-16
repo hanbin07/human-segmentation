@@ -1,7 +1,10 @@
 # human-segmentation
 human segmentation - PyTorch
 
-#### Input: video.mp4
+File: mask2.py (deeplabv3_resnet50 version)
+
+#### Input: 
+video.mp4
 
 #### Output: 
 
