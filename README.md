@@ -2,6 +2,7 @@
 human segmentation - PyTorch
 
 File: mask2.py (deeplabv3_resnet50 version)
+File: maskrcnn.py (Mask R-CNN version)
 
 #### Input: 
 video.mp4
