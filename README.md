@@ -11,6 +11,6 @@ masks>mask images
 
 #### Result
 
-!(images/000.png)
+![000](images/000.png)
 
 video source: https://www.youtube.com/watch?v=ANwEiICt7BM&feature=youtu.be
